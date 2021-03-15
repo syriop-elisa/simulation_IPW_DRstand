@@ -4,6 +4,7 @@ This repository contains the code required for the simulation study of the manus
 in the relative survival framework_ by Syriopoulou et al. (2020).
 
 The code for the simulation study is included in the file [`simulation_code.do`](https://github.com/syriop-elisa/simulation_IPW_DRstand/blob/master/simulation_code.do).
+The code for obtaining the true values is included in the file [`calculate_truth.do`](https://github.com/syriop-elisa/simulation_IPW_DRstand/blob/master/calculate_truth.do).
 
 The main aim of this simulation study is to assess how sensitive point estimates of relative survival obtained from regression standardisation,
 inverse probability weighting (IPW) and doubly robust standardisation are to model misspecification. 
